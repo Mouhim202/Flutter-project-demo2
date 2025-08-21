@@ -21,6 +21,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
   <tr>
     <td><img src="assets/images/Captures/1.png" width="200"/></td>
     <td><img src="assets/images/Captures/2.png" width="200"/></td>
+    <td><img src="assets/images/Captures/5.png" width="200"/></td>
     <td><img src="assets/images/Captures/3.png" width="200"/></td>
     <td><img src="assets/images/Captures/4.png" width="200"/></td>
    
